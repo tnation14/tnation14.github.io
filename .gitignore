@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+# Vagrant
+.vagrant
+
+# Ansible
+deployment/ansible/roles/azavea.*
+*.retry

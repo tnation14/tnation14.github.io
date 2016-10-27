@@ -1,0 +1,24 @@
+title: Tay Does DevOps
+email: tay@taydoesdevops.com
+description: >
+  I'm Taylor, an Operations engineer at a GIS company in Philadelphia.
+  This blog is a place for me to talk about cool things I've learned
+  at work, funny/interesting things I see around the internet, and share
+  some of my thoughts about what it's like being a Black person trying
+  to thrive in today's corporate landscape.
+baseurl: ""
+url: "www.taydoesdevops.com"
+twitter_username: taydoesdevops
+repository: tnation14/tnation14.github.io
+exclude: 
+  - deployment
+  - Dockerfile
+  - Vagrantfile
+  - docker-compose.yml
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+markdown: kramdown
+theme: minima
